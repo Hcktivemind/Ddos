@@ -1,4 +1,4 @@
-// made by @rapidreset aka mitigations for mesh botnet
+
 const net = require('net');
 const tls = require('tls');
 const HPACK = require('hpack');
